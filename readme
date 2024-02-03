@@ -1,0 +1,11 @@
+# OTP Generator
+
+A lightweight Node.js module for generating One-Time Passwords (OTPs).
+
+## Installation
+
+You can install the OTP Generator module using npm:
+
+```bash
+npm install otp-generator
+

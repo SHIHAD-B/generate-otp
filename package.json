@@ -1,0 +1,17 @@
+{
+  "name": "generate-otp",
+  "version": "1.0.0",
+  "description": "\"A simple otp genreator\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "SHIHAD B",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}

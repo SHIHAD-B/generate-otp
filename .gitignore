@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# npm
+package-lock.json
+
+# Visual Studio Code
+.vscode/
+
+# Logs and Temp Files
+logs/
+*.log
+
+# Environment Variables
+.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Testing Artifacts
+coverage/
+
+# Build Artifacts
+build/
+dist/
+
+# Editor/IDE Files
+.idea/
+*.suo
+*.ntvs*
